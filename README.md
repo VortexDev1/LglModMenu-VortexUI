@@ -40,6 +40,8 @@ Thanks to the following individuals whose code helped me develop this mod menu
 * Rprop - https://github.com/Rprop/And64InlineHook
 * And everyone else who provided input and contributions to this project!
 
+* VortexHacker - for optomization for UI and adding dobbyHook support
+
 # License
 **GNU General Public License 3**
 
